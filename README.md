@@ -1,4 +1,4 @@
-# *Juliar * Alpha 4
+# *Juliar * Alpha 5
 ![logo](https://cloud.githubusercontent.com/assets/11934545/9560198/1641db26-4dd6-11e5-8b7d-8aaf54ca2ea1.png)
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/juliarLang/juliar.svg)](http://isitmaintained.com/project/juliarLang/juliar "Average time to resolve an issue")
@@ -9,12 +9,17 @@
 ###### Official Repository: https://github.com/juliarLang or http://www.src.juliar.org
 ###### Official Website: http://www.juliar.org
 ###### Twitter: https://twitter.com/juliarLang or http://www.twitter.juliar.org
+###### Facebook: https://www.facebook.com/juliarlang/
+###### YouTube: https://www.youtube.com/channel/UCRkKqD0fnuVAJLJe9p4ZiKQ
 ###### Documentation: http://juliarlang.readthedocs.org/en/latest/
 ###### Forums: http://juliar.tk or http://www.forums.juliar.org
 
 ##Welcome to *JULIAR *
 _Incepted On: 4/12/2015_
 #####*JULIAR * was originally a new "web" language written in pure javascript. It is now becoming a "desktop" language as well as we're building new Juliar ->ASM compilers, as well as Juliar suite.
+_The Project now has 2 versions. Juliar CORE which is "desktop" version and Juliar which is universal web based. Both run modules_
+
+_Starting from Alpha 5, we use babel to transpile. Our code is much cleaner and easier to modify_
 
 ####Why use *JULIAR * ?
 
